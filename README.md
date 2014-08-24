@@ -7,7 +7,7 @@ If you already have downloaded the data, extract the zip file inside the same fo
 Just to be clear, the relative path compared to "run_analysis.R" of the "activity_labels.txt" file should
 be "UCI HAR Dataset/activity_labels.txt" for instance.
 
-The scripts have been tested on MAC OS X. Not on windows or linux.
+The scripts have been tested on MAC OS X.
 
 ## The exercise's description
 
