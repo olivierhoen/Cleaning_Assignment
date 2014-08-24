@@ -1,4 +1,5 @@
-# Run the analysis -> creates the tiny data set and saves it under "tiny.txt"
+# script by olivierhoen 
+# If you run the analysis, it creates the tiny data set and saves it under the file "tiny.txt"
 
 # Reads the base sets (files with begining by X) in an optimal way
 # * filePath: path of the file

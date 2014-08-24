@@ -1,7 +1,8 @@
 # The CodeBook
+# from olivierhoen
 
-No other transformations than the ones done in the script has been made on the data. The script merges many the different files,
-into one single dataset as it has been stated in the exercise (see readme for the exercise's description).
+No other transformations than the ones done in the script has been made on the data.
+The script merges many the different files into one single dataset as  stated in the exercise.
 
 The input is described in the README.txt of the downloaded input (see "UCI HAR Dataset/README.txt" file once the input is downloaded).
 
