@@ -1,13 +1,12 @@
 # Getting and Cleaning Data Peer Assessment
 
-This repo contains my solution to the Getting and Cleaning Data Peer Assessment (see description below).
+Simply execute "run_analysis.R".
 
-Simply execute "run_analysis.R".  If the data is not on the same folder, the script automatically downloads and extract it in the right place.
+If the data is not on the same folder, the script automatically downloads and extract it in the right place.
+
 If you already have downloaded the data, extract the zip file inside the same folder than the script.
-Just to be clear, the relative path compared to "run_analysis.R" of the "activity_labels.txt" file should
-be "UCI HAR Dataset/activity_labels.txt" for instance.
 
-The scripts have been tested on MAC OS X.
+The scripts have been tested on R Studio running on MacOs.
 
 ## The exercise's description
 
